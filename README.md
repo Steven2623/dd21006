@@ -4,7 +4,7 @@
 Aplicar los conocimientos obtenidos sobre los Fundamentos del Lenguaje Ensamblador en Sistemas GNU/Linux para elaborar programas en ensamblador.
 
 ## Instrucciones
-Tomando como ejemplo el ejercicio desarrollado en el video anterior, realice los siguientes ejercicios:
+Tomando como ejemplo el ejercicio desarrollado anterior, realice los siguientes ejercicios:
 
 ### 1. Resta de tres enteros
 - Programa para restar tres enteros utilizando solo registros de 16 bits.
